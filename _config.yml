@@ -3,7 +3,7 @@ title: Jeremiah Bonney
 subtitle: My WIP site
 email: fakemail@donotemail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jbonney.dev
 author: Jeremiah Bonney
 street_address: 1234 Somewhere Road
