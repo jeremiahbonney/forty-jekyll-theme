@@ -1,14 +1,14 @@
 # site settings
 title: Jeremiah Bonney
-subtitle: My WIP site
-email: fakemail@donotemail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+subtitle: My WIP side
+email: jjbonney4@gmail.com
+description: An NYC based developer specializing in distributed builds
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jbonney.dev
 author: Jeremiah Bonney
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address:
+city: New York
+state: New York
 zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
@@ -24,7 +24,7 @@ github_url: https://github.com/jeremiahbonney
 gitlab_url: https://gitlab.com/u/jbonney
 googleplus_url:
 instagram_url:
-linkedin_url: 
+linkedin_url: https://www.linkedin.com/in/jeremiah-bonney-77231180/
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/bonneyandclyde
